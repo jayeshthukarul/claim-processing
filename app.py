@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics.classification import accuracy_score, log_loss
 
-__author__ = 'vivekrampal'
+__author__ = 'jayeshthukarul'
 
 app = Flask(__name__)
 
